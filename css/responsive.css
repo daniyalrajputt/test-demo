@@ -24,11 +24,11 @@
 
 @media (max-width: 991.98px) {
   .testimonial-slider .slick-next {
-    right: -4rem;
+    right: -3rem;
   }
 
   .testimonial-slider .slick-prev {
-    left: -4rem;
+    left: -3rem;
   }
 
   .testimonial-card p {
